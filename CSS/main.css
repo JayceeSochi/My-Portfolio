@@ -1,0 +1,91 @@
+ul {
+    border: 5px;
+    border-style: dashed;
+    height: fit-content;
+    width: fit-content;
+    margin: 2% 0%;
+    padding: 2%;
+    font-family: serif, Georgia;
+}
+
+html {
+    color: white;
+    font-family: monospace, 'Trebuchet MS';
+}
+
+body {
+    background-image: url("../PortfolioImages/background.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+img {
+    width: 640px;
+    height: 480px;
+    margin: 4% 0%;
+}
+
+ul {
+    background-color: black;
+    height: fit-content;
+    width: fit-content;
+}
+
+a {
+    color: rgb(0,255,0);
+}
+
+p {
+    background-color: black;
+    color: pink;
+    border: 1px;
+    border-style: ridge;
+    height: fit-content;
+    width: fit-content;
+    padding: 1.5%;
+    margin: 3% 0%;
+    font-family: fantasy;
+}
+
+h2 {
+    background-color: black;
+    color: greenyellow;
+    border: 5px;
+    border-style: double;
+    height: fit-content;
+    width: fit-content;
+    margin: 2.5% 0%;
+    padding: 1%;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    background-color: royalblue;
+    height: fit-content;
+    width: fit-content;
+    margin: 1.5% 0%;
+    padding: 0.5%;
+    border: 2px;
+    border-style: groove;
+}
+
+#media {
+    height: 32px;
+    width: 32px;
+    float: inline-start;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    border: 3px;
+    border-style: outset;
+    padding: 1%;
+    color:cornflowerblue;
+}
